@@ -17,7 +17,6 @@ $(document).ready(function() {
     $(document).ready(function() {
     
     // Naya VdoCipher embed code
-    var vdoCipherCode = '<iframe src="https://player.vdocipher.com/v2/?otp=20160313versASE3232AbEdJtrAeYZiYjc1xBZKNXoQ65UibdvnPKIdJHMfvfzGl&playbackInfo=eyJ2aWRlb0lkIjoiOWExYTQyYjA1MDhhNDg2MzhkMjc4NDc3NjQwZWJiM2QifQ==" style="border:0;height:360px;width:640px;max-width:100%" allowFullScreen="true" allow="encrypted-media"></iframe>';
     
     // Container mein daalo
     $('#videoContainer').html(vdoCipherCode);
